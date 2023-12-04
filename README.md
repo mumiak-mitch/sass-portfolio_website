@@ -1,11 +1,18 @@
 # Portfolio Website
 
-## Technologies
+## Technologies Used
 
-HTML
-SASS: scss extension approach
+- HTML
+- SASS with scss extension approach
 
-## To Note
+## Overview
 
-This portfolio website has been built with a mobile-first approach.
-It has media queries for large screens.
+This portfolio website is designed with a mobile-first approach, ensuring a seamless experience on various devices. It incorporates SASS with the scss extension for more maintainable and organized styles.
+
+## Responsive Design
+
+The website features media queries to optimize the layout and styling for large screens, providing a visually pleasing experience across different screen sizes.
+
+## Live Demo
+
+To view the live demo, visit [Portfolio Website](https://mumiak-mitch.github.io/sass-portfolio_website/dist).
