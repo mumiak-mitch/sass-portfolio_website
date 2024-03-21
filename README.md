@@ -1,5 +1,9 @@
 # Portfolio Website
 
+## Live Demo
+
+To view the live demo, visit [Portfolio Website](https://mumiak-mitch.github.io/sass-portfolio_website/dist).
+
 ## Technologies Used
 
 - HTML
@@ -13,6 +17,3 @@ This portfolio website is designed with a mobile-first approach, ensuring a seam
 
 The website features media queries to optimize the layout and styling for large screens, providing a visually pleasing experience across different screen sizes.
 
-## Live Demo
-
-To view the live demo, visit [Portfolio Website](https://mumiak-mitch.github.io/sass-portfolio_website/dist).
